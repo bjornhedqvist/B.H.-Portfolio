@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
     <meta
       name="description"
@@ -26,13 +26,32 @@
     -->
     <title>B.H. Portfolio</title>
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD"
+      crossorigin="anonymous"
+    />
 
-    <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/cover/">
+    <link
+      rel="canonical"
+      href="https://getbootstrap.com/docs/5.3/examples/cover/"
+    />
 
-    <link href="index.css" rel="stylesheet">
+    <link href="index.css" rel="stylesheet" />
 
     <style>
+      #background {
+        background-image: url("https://i.natgeofe.com/k/6785336d-6acf-4d80-aed0-bb82a39f70f6/sweden-northern-lights_16x9.jpg?w=1200");
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        height: 100vh;
+        background-position: center;
+        background-repeat: no-repeat;
+      }
+
       .bd-placeholder-img {
         font-size: 1.125rem;
         text-anchor: middle;
@@ -49,10 +68,11 @@
 
       .b-example-divider {
         height: 3rem;
-        background-color: rgba(0, 0, 0, .1);
-        border: solid rgba(0, 0, 0, .15);
+        background-color: rgba(0, 0, 0, 0.1);
+        border: solid rgba(0, 0, 0, 0.15);
         border-width: 1px 0;
-        box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+        box-shadow: inset 0 0.5em 1.5em rgba(0, 0, 0, 0.1),
+          inset 0 0.125em 0.5em rgba(0, 0, 0, 0.15);
       }
 
       .b-example-vr {
@@ -62,7 +82,7 @@
       }
 
       .bi {
-        vertical-align: -.125em;
+        vertical-align: -0.125em;
         fill: currentColor;
       }
 
@@ -84,11 +104,13 @@
         -webkit-overflow-scrolling: touch;
       }
     </style>
-    
   </head>
-  <body class="h-100 d-flex text-center text-bg-dark">
+  <body id="background" class="bg-image h-100 d-flex text-center text-bg-dark">
     <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root" class="h-100 cover-container d-flex w-100 p-3 mx-auto flex-column"></div>
+    <div
+      id="root"
+      class="h-100 cover-container d-flex w-100 p-3 mx-auto flex-column"
+    ></div>
     <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
@@ -99,6 +121,10 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>
