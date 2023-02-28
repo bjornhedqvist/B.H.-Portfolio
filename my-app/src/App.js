@@ -76,7 +76,7 @@ function App() {
             </Link>
           </p>
         </div>
-        <article className="paralaxText mt-5">
+        {/* <article className="paralaxText mt-5">
           <h1 className="mb-1 pb-5">Projects</h1>
           <h2>Project</h2>
           <p>
@@ -112,7 +112,7 @@ function App() {
             girehjkq;fhn jkreq;hfreh qjfgknerjk;q hgfuifren jk;ghuiren
             njgfk;rheuiq gjkreqhkg
           </p>
-        </article>
+        </article> */}
       </main>
 
       <footer className="mt-auto text-white-50">

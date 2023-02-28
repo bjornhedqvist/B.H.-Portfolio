@@ -20,6 +20,8 @@ body {
   margin: 0;
   /* color: #1d1d1d;
   background: #071a20; */
+  background-color: #fff;
+  background: #fff;
 }
 
 .cover-container {
@@ -63,12 +65,11 @@ h2 {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  /* height: 100vh; */
-  /* background-position: center; */
+  background-color: #fff;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
-  background-image: url("../public/Wave-11.1s-1185px.svg");
+  background-image: url("../public/Wave-10s-1185px.svg");
 }
 
 .paralaxText {
