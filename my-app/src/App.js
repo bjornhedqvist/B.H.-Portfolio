@@ -29,7 +29,7 @@ function App() {
         </div>
       </header>
 
-      <main className="paralaxText mt-4 px-3 mx-auto">
+      <main className="paralaxText mx-auto">
         <div className="paralaxText">
           <h1>Frontend Software Developer</h1>
           <p className="lead">React • JavaScript • HTML • CSS • Bootstrap</p>
@@ -115,7 +115,7 @@ function App() {
         </article> */}
       </main>
 
-      <footer className="mt-auto text-white-50">
+      {/* <footer className="mt-auto text-white-50">
         <p>
           text{" "}
           <a href="#" className="text-white">
@@ -126,7 +126,7 @@ function App() {
           </a>
           , Photograph by Solarseven, Dreamstime.
         </p>
-      </footer>
+      </footer> */}
     </div>
   );
 }
