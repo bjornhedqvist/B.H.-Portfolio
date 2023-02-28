@@ -19,6 +19,9 @@
 body {
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
   /* box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5); */
+  margin: 0;
+  /* color: #1d1d1d;
+  background: #071a20; */
 }
 
 .cover-container {
@@ -50,6 +53,38 @@ body {
   border-bottom-color: #fff;
 }
 
+p, h2 {
+  position: relative;
+  z-index: 1;
+  margin: 20px 15%;
+}
+
+.paralaxImage {
+  /* padding: 40px 0; */
+  height:100vh;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-image: url("https://i.natgeofe.com/k/6785336d-6acf-4d80-aed0-bb82a39f70f6/sweden-northern-lights_16x9.jpg?w=1200");
+}
+
+.paralaxText {
+  padding: 40px 0;
+  position:relative;
+}
+
+.paralaxText::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  rotate: -2deg;
+  translate: -50% -50%;
+  width: 150%;
+  height: 125%;
+  /* background: #ffffff; */
+}
 
 /* body {
   margin: 0;
