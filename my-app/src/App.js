@@ -80,40 +80,37 @@ function App() {
           <h1 className="mb-1 pb-5">Projects</h1>
           <h2>Project</h2>
           <p>
-            Get all the code on GitHub:      🔥 Username: frontend-joe   🔥
-            Repository: css-tricks   🔥 Folder: simple-parallax      Was it
-            useful?      Let me know in the comments 👇🏽      #css #html
-            #frontenddev #animation #tech #programming #coding #programmer
-            #javascript #code #coder #software #technology #webdevelopment
-            #softwaredeveloper #computerscience #development #codinglife
-            #developers #softwareengineer #programmers #developerlife #web #dev
-            #programminglife
+            Gfrejkah fgjkehgkewhgkuhujkerl qhgrehugerhquoghreuwwhgukeqhguo
+            reqiorhgi orqhgoreq hughreui oqhgoreq hguiorhu oqhguiro eqhguior
+            huogirhe uoqghuri oeqhgure qhgurehg uirehgui orehguir ehgirehg
+            jkreqhfj kfebfj kdsabfjk dshfjkhfj kr;ehjk ;hqfjks a;njds;ahfjr
+            ehqfrenjrehuo rehfjrheuiq hgjkrenfj kre;hqui ghrejke;qfgjkhu
+            girehjkq;fhn jkreq;hfreh qjfgknerjk;q hgfuifren jk;ghuiren
+            njgfk;rheuiq gjkreqhkg
           </p>
         </article>
         <article className="paralaxText mt-5">
           <h2>Project</h2>
           <p>
-            Get all the code on GitHub:      🔥 Username: frontend-joe   🔥
-            Repository: css-tricks   🔥 Folder: simple-parallax      Was it
-            useful?      Let me know in the comments 👇🏽      #css #html
-            #frontenddev #animation #tech #programming #coding #programmer
-            #javascript #code #coder #software #technology #webdevelopment
-            #softwaredeveloper #computerscience #development #codinglife
-            #developers #softwareengineer #programmers #developerlife #web #dev
-            #programminglife
+            Gfrejkah fgjkehgkewhgkuhujkerl qhgrehugerhquoghreuwwhgukeqhguo
+            reqiorhgi orqhgoreq hughreui oqhgoreq hguiorhu oqhguiro eqhguior
+            huogirhe uoqghuri oeqhgure qhgurehg uirehgui orehguir ehgirehg
+            jkreqhfj kfebfj kdsabfjk dshfjkhfj kr;ehjk ;hqfjks a;njds;ahfjr
+            ehqfrenjrehuo rehfjrheuiq hgjkrenfj kre;hqui ghrejke;qfgjkhu
+            girehjkq;fhn jkreq;hfreh qjfgknerjk;q hgfuifren jk;ghuiren
+            njgfk;rheuiq gjkreqhkg
           </p>
         </article>
         <article className="paralaxText mt-5">
           <h2>Project</h2>
           <p>
-            Get all the code on GitHub:      🔥 Username: frontend-joe   🔥
-            Repository: css-tricks   🔥 Folder: simple-parallax      Was it
-            useful?      Let me know in the comments 👇🏽      #css #html
-            #frontenddev #animation #tech #programming #coding #programmer
-            #javascript #code #coder #software #technology #webdevelopment
-            #softwaredeveloper #computerscience #development #codinglife
-            #developers #softwareengineer #programmers #developerlife #web #dev
-            #programminglife
+            Gfrejkah fgjkehgkewhgkuhujkerl qhgrehugerhquoghreuwwhgukeqhguo
+            reqiorhgi orqhgoreq hughreui oqhgoreq hguiorhu oqhguiro eqhguior
+            huogirhe uoqghuri oeqhgure qhgurehg uirehgui orehguir ehgirehg
+            jkreqhfj kfebfj kdsabfjk dshfjkhfj kr;ehjk ;hqfjks a;njds;ahfjr
+            ehqfrenjrehuo rehfjrheuiq hgjkrenfj kre;hqui ghrejke;qfgjkhu
+            girehjkq;fhn jkreq;hfreh qjfgknerjk;q hgfuifren jk;ghuiren
+            njgfk;rheuiq gjkreqhkg
           </p>
         </article>
       </main>
