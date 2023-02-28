@@ -65,7 +65,7 @@ p, h2 {
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
-  background-image: url("https://i.natgeofe.com/k/6785336d-6acf-4d80-aed0-bb82a39f70f6/sweden-northern-lights_16x9.jpg?w=1200");
+  background-image: url("../public/Wave-11.1s-1185px.svg");
 }
 
 .paralaxText {
@@ -77,12 +77,12 @@ p, h2 {
   content: "";
   display: block;
   position: absolute;
-  top: 50%;
+  /* top: 50%;
   left: 50%;
   rotate: -2deg;
   translate: -50% -50%;
   width: 150%;
-  height: 125%;
+  height: 125%; */
   /* background: #ffffff; */
 }
 

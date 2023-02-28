@@ -80,7 +80,7 @@ function App() {
           <h1 className="mb-1 pb-5">Projects</h1>
           <h2>Project</h2>
           <p>
-            Gfrejkah fgjkehgkewhgkuhujkerl qhgrehugerhquoghreuwwhgukeqhguo
+            Gfrejkah fgjkehgkewhgkuhujkerl qhgrehugerhquogh reuwwhgukeqhguo
             reqiorhgi orqhgoreq hughreui oqhgoreq hguiorhu oqhguiro eqhguior
             huogirhe uoqghuri oeqhgure qhgurehg uirehgui orehguir ehgirehg
             jkreqhfj kfebfj kdsabfjk dshfjkhfj kr;ehjk ;hqfjks a;njds;ahfjr
@@ -92,7 +92,7 @@ function App() {
         <article className="paralaxText mt-5">
           <h2>Project</h2>
           <p>
-            Gfrejkah fgjkehgkewhgkuhujkerl qhgrehugerhquoghreuwwhgukeqhguo
+            Gfrejkah fgjkehgkewhgkuhujkerl qhgrehugerhquogh reuwwhgukeqhguo
             reqiorhgi orqhgoreq hughreui oqhgoreq hguiorhu oqhguiro eqhguior
             huogirhe uoqghuri oeqhgure qhgurehg uirehgui orehguir ehgirehg
             jkreqhfj kfebfj kdsabfjk dshfjkhfj kr;ehjk ;hqfjks a;njds;ahfjr
@@ -104,7 +104,7 @@ function App() {
         <article className="paralaxText mt-5">
           <h2>Project</h2>
           <p>
-            Gfrejkah fgjkehgkewhgkuhujkerl qhgrehugerhquoghreuwwhgukeqhguo
+            Gfrejkah fgjkehgkewhgkuhujkerl qhgrehugerhquoghr euwwhgukeqhguo
             reqiorhgi orqhgoreq hughreui oqhgoreq hguiorhu oqhguiro eqhguior
             huogirhe uoqghuri oeqhgure qhgurehg uirehgui orehguir ehgirehg
             jkreqhfj kfebfj kdsabfjk dshfjkhfj kr;ehjk ;hqfjks a;njds;ahfjr
