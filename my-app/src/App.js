@@ -60,7 +60,7 @@ function App() {
             </Link>
             <Link
               type="button"
-              href="https://www.linkedin.com/in/bjorn-hedqvist"
+              to="https://www.linkedin.com/in/bjorn-hedqvist"
               className="btn btn-lg btn-outline-primary fw-bold bs-primary-bg-subtle"
             >
               <svg
