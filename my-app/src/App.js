@@ -1,5 +1,5 @@
 import logo from "./logo.svg";
-import bjorn from "./bjorn.png"
+import bjorn from "./bjorn.png";
 import "./App.css";
 import { Link } from "react-router-dom";
 
@@ -30,15 +30,20 @@ function App() {
         </div>
       </header>
 
-      <main className="paralaxText mx-auto">
+      <main className="paralaxText mb-0 mx-auto ">
         <div className="paralaxText">
-          <img src={bjorn} className="img-fluid w-50 mb-4 rounded-circle mx-auto d-block" alt="Bjorn" />
+          <img
+            src={bjorn}
+            style={{ width: '33%'}}
+            className="img-fluid mt-0 mb-4 rounded-circle mx-auto h-25 d-inline-block"
+            alt="Bjorn"
+          />
           <h1>Frontend Software Developer</h1>
           <p className="lead">React • JavaScript • HTML • CSS • Bootstrap</p>
           <p className="lead d-grid gap-2 d-md-flex justify-content-md-center">
             <a
               href="mailto:bjornhedqvist22@gmail.com"
-              className="btn btn-lg btn-light fw-bold border-white bg-white"
+              className="btn btn-lg btn-light fw-bold border-white bs-light-bg-subtle"
             >
               Contact Me
             </a>
