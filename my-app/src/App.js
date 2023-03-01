@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+import bjorn from "./bjorn.png"
 import "./App.css";
 import { Link } from "react-router-dom";
 
@@ -31,6 +32,7 @@ function App() {
 
       <main className="paralaxText mx-auto">
         <div className="paralaxText">
+          <img src={bjorn} className="img-fluid w-50 mb-4 rounded-circle mx-auto d-block" alt="Bjorn" />
           <h1>Frontend Software Developer</h1>
           <p className="lead">React • JavaScript • HTML • CSS • Bootstrap</p>
           <p className="lead d-grid gap-2 d-md-flex justify-content-md-center">
