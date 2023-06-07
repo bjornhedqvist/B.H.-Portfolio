@@ -35,7 +35,7 @@ function App() {
       </header>
 
       <main className="paralaxText mb-0 mx-auto ">
-        <br></br>
+        {/* <br></br> */}
         <div className="paralaxText">
           <img
             src={bjorn}
